@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yaser1rifai/juniortech/static/css/main.34fe90eb.chunk.css",
+    "main.js": "/yaser1rifai/juniortech/static/js/main.6db9f383.chunk.js",
+    "main.js.map": "/yaser1rifai/juniortech/static/js/main.6db9f383.chunk.js.map",
+    "runtime-main.js": "/yaser1rifai/juniortech/static/js/runtime-main.ec155628.js",
+    "runtime-main.js.map": "/yaser1rifai/juniortech/static/js/runtime-main.ec155628.js.map",
+    "static/js/2.58d16d16.chunk.js": "/yaser1rifai/juniortech/static/js/2.58d16d16.chunk.js",
+    "static/js/2.58d16d16.chunk.js.map": "/yaser1rifai/juniortech/static/js/2.58d16d16.chunk.js.map",
+    "index.html": "/yaser1rifai/juniortech/index.html",
+    "precache-manifest.df4aaff48622f6ad18455d01d6b1d59b.js": "/yaser1rifai/juniortech/precache-manifest.df4aaff48622f6ad18455d01d6b1d59b.js",
+    "service-worker.js": "/yaser1rifai/juniortech/service-worker.js",
+    "static/css/main.34fe90eb.chunk.css.map": "/yaser1rifai/juniortech/static/css/main.34fe90eb.chunk.css.map",
+    "static/js/2.58d16d16.chunk.js.LICENSE": "/yaser1rifai/juniortech/static/js/2.58d16d16.chunk.js.LICENSE",
+    "static/media/job.svg": "/yaser1rifai/juniortech/static/media/job.999eb6de.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec155628.js",
+    "static/js/2.58d16d16.chunk.js",
+    "static/css/main.34fe90eb.chunk.css",
+    "static/js/main.6db9f383.chunk.js"
+  ]
+}
